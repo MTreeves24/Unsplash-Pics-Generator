@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Unsplash-Pics-Generator/static/css/main.6cead2dd.chunk.css",
+    "main.js": "/Unsplash-Pics-Generator/static/js/main.aaa05126.chunk.js",
+    "main.js.map": "/Unsplash-Pics-Generator/static/js/main.aaa05126.chunk.js.map",
+    "runtime-main.js": "/Unsplash-Pics-Generator/static/js/runtime-main.73a5fd4f.js",
+    "runtime-main.js.map": "/Unsplash-Pics-Generator/static/js/runtime-main.73a5fd4f.js.map",
+    "static/js/2.95487276.chunk.js": "/Unsplash-Pics-Generator/static/js/2.95487276.chunk.js",
+    "static/js/2.95487276.chunk.js.map": "/Unsplash-Pics-Generator/static/js/2.95487276.chunk.js.map",
+    "index.html": "/Unsplash-Pics-Generator/index.html",
+    "precache-manifest.7aab6de01175711e2420eb5161d7a1b1.js": "/Unsplash-Pics-Generator/precache-manifest.7aab6de01175711e2420eb5161d7a1b1.js",
+    "service-worker.js": "/Unsplash-Pics-Generator/service-worker.js",
+    "static/css/main.6cead2dd.chunk.css.map": "/Unsplash-Pics-Generator/static/css/main.6cead2dd.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73a5fd4f.js",
+    "static/js/2.95487276.chunk.js",
+    "static/css/main.6cead2dd.chunk.css",
+    "static/js/main.aaa05126.chunk.js"
+  ]
+}
