@@ -16,8 +16,12 @@ componentDidMount(){
 
 clickThrough = () => {
   const link = this.imageRef.current.src;
-  
+
   this.setState({ link })
+}
+
+loadMoreButtonClick = () => {
+  console.log("clicked")
 }
 
 setSpans = () => {
@@ -32,7 +36,7 @@ setSpans = () => {
     const {description,urls} = this.props.image;
     return (
       <div style={{ gridRowEnd: `span ${this.state.spans}`}}>
-        <a href={this.state.link} target="_blank">
+        <a href={this.state.link} target="_blank" rel="noopener noreferrer">
           <img ref={this.imageRef} alt={description} src={urls.regular}/>
         </a>
       </div>
