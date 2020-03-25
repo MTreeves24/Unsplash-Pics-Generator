@@ -3,7 +3,6 @@ import unsplash from '../api/unsplash';
 import SearchBar from './SearchBar';
 import ImageList from './ImageList';
 import './ImageList.css';
-import { blockStatement } from '@babel/types';
 
 let clickCount = 3;
 
